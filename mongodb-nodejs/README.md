@@ -1,10 +1,10 @@
-# nodejs-mongodb
+# mongodb-nodejs
 
 Projeto nodejs, que demonstra como consultar documentos no MongoDB.
 
 ### Para testar
 Inicie um servidor Mongo. Recomendo um docker.
-cd nodejs-mongodb
+cd mongodb-nodejs
 npm install
 node Testes.js
 

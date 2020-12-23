@@ -5,3 +5,7 @@ Projeto para fins de estudo onde demonstra várias tecnologias acessando vários
 ### Projetos:
 * mongodb-java
 * mongodb-nodejs
+* mongodb-python
+* mongodb-c#
+
+

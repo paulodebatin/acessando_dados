@@ -1,4 +1,4 @@
-# java-mongodb
+# mongodb-java
 
 Projeto maven, de aplicação Java console que demonstra como gravar, consultar, alterar e excluir documentos no MongoDB.
 
