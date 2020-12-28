@@ -1,13 +1,13 @@
 # acessando_dados
 
-Projeto para fins de estudo onde demonstra várias tecnologias acessando vários bancos de dados (relacionais e não relacionais).
+Projeto para fins de estudo onde demonstra várias tecnologias acessando vários bancos de dados (não relacionais).
 
 ### Projetos:
 * mongodb-java
 * mongodb-nodejs
 * mongodb-python
 * mongodb-c#
-
+<hr>
 * elasticsearch-java
 * elasticsearch-nodejs
 * elasticsearch-python
