@@ -8,4 +8,21 @@ Projeto para fins de estudo onde demonstra várias tecnologias acessando vários
 * mongodb-python
 * mongodb-c#
 
+* elasticsearch-java
+* elasticsearch-nodejs
+* elasticsearch-python
+* elasticsearch-c#
+
+* redis-java
+* redis-nodejs
+* redis-python
+* redis-c#
+
+* consul-java
+* consul-nodejs
+* consul-python
+* consul-c#
+
+
+
 

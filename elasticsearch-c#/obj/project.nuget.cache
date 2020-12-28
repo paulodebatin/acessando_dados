@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiYHUCPHhufxY83DHVZS+93DgOhP6XkWAwFqqdDXQMhpySg0EM5H7mJTFCJb0FwRri3Uj7/LEAivkTwpPzwwpQ==",
+  "success": true,
+  "projectFilePath": "/home/paulo/projetos/acessando_dados/elasticsearch-c#/elasticsearch-c#.csproj",
+  "expectedPackageFiles": [
+    "/home/paulo/.nuget/packages/elasticsearch.net/7.10.1/elasticsearch.net.7.10.1.nupkg.sha512",
+    "/home/paulo/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/home/paulo/.nuget/packages/nest/7.10.1/nest.7.10.1.nupkg.sha512",
+    "/home/paulo/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/paulo/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

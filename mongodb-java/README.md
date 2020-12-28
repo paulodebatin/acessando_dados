@@ -8,5 +8,6 @@ Abra o projeto em um editor (Eclipse, Intelij, ...) e execute a classe Testes.ja
 
 ### Tecnologias utilizadas:
 * Java
-* Driver para o client: org.mongodb  / mongodb-driver-sync:4.1.1
+* Mongo
+* Dependência maven para o client: org.mongodb  / mongodb-driver-sync:4.1.1
  
